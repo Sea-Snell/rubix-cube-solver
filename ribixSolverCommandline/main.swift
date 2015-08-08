@@ -8,5 +8,4 @@
 
 import Foundation
 
-println("Hello, World!")
-
+solve2x2x2()
